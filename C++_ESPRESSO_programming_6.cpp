@@ -16,6 +16,7 @@ int main(){
     cin >> work;
 
     cout << work << "는 할 수 없습니다." << endl;
+    cout << "202102467_이성준_컴퓨터공학과" << endl;
 
     return 0;
 }
