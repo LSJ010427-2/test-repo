@@ -1,5 +1,5 @@
 // 202102467_이성준_컴퓨터공학과
-// TOUCHED BY USER 2
+// TOUCHED BY USER 2_RE_MODIFY
 
 #include <iostream>
 #include <string>
